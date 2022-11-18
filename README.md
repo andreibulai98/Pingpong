@@ -1,6 +1,6 @@
 # Pingpong
 
-Team names:
+Team members:
 
   - Andrei Bulai: bulai.andrei10@gmail.com
 
